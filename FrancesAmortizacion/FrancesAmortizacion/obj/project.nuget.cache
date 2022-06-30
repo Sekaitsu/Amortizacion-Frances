@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SczV7Stwf8gl7sgVYG6pEK4CTOvlSH3AER2dfGpXacUo8vD1RBTe+YyO5jgtqr7PH32fZbM6yQvzrBUPPnypHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lbernate\\source\\repos\\FrancesAmortizacion\\FrancesAmortizacion\\FrancesAmortizacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lbernate\\.nuget\\packages\\datatableprettyprinter\\0.2.0\\datatableprettyprinter.0.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
